@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "744696664603",
+    "firebase_url": "https://unsolved-2898d.firebaseio.com",
+    "project_id": "unsolved-2898d",
+    "storage_bucket": "unsolved-2898d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744696664603:android:02a431c5879ad74e",
+        "android_client_info": {
+          "package_name": "mit.basil.ravi.unsolved"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744696664603-pdetgl49but729ifpke0ekhn1htn80mg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3PxoV_RbNckLMVBImGTR_SiaH9jfY8Q0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
